@@ -18,6 +18,7 @@ root: /
 permalink: blog/:year:month:day-:urlname.html
 permalink_defaults:
 urlname: index
+
 # Directory
 source_dir: source
 public_dir: public
@@ -35,7 +36,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -43,7 +44,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+    
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -75,9 +76,31 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next-reloaded
 
+# avatar: /images/avatar.png
+
+# Sitemap
+sitemap: 
+  path: sitemap.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:greedyboy/greedyboy.github.io.git
+  repo: 
+    coding: git@github.com:greedyboy/greedyboy.github.io.git
   branch: master
+
+    
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+# Imgurl
+# Important: This value starts without a protocol and it doesn't end with '/'.
+# httpsMod: true | false 
+# If the value not set, image url will automatically adapt to the site's protocol.
+imgurl: 
+#cdn-1256167913.image.myqcloud.com/images
+httpsMod:
