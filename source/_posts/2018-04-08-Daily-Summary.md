@@ -1,5 +1,5 @@
 ﻿---
-title: 2018-04-08 Daily Summary
+title: Daily Summary
 tags:
   - diary
   - hexo

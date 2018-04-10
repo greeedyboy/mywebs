@@ -1,5 +1,5 @@
 ﻿---
-title: Go to work
+title: 站点更新小结V18.04.10
 urlname: go-to-work
 tags:
   - diary
@@ -18,11 +18,6 @@ Good Good Study,Day Day UP!
 - 1/40程序员，真的不着调
 - 把自己的主业搞起来，才ok
 - 有时间的话尝试是可以的，但是不能如此的分心啊
-
-## ToDo
-- 逐一说明
-- 重点实验室结题材料
-- 导师指导记录
 <!-- more -->
 
 ## Done

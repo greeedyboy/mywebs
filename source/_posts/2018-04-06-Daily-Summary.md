@@ -1,5 +1,5 @@
 ﻿---
-title: 2018-04-07 Hexo自动化工具
+title: Hexo自动化工具
 date: 2018-04-07 03:35:52
 urlname: index1
 tags:
