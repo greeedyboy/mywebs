@@ -15,9 +15,10 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://tgot.net
 root: /
-permalink: blog/:year:month:day-:urlname.html
+permalink: blog/:year/:month:day-:urlname.html
 permalink_defaults:
 urlname: index
+
 # Directory
 source_dir: source
 public_dir: public
@@ -73,13 +74,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-reloaded
+theme: next
 
-# Extensions
-## Plugins: http://hexo.io/plugins/
 #RSS订阅
-plugin:
-- hexo-generator-feed
+#plugin: hexo-generator-feed
 #Feed Atom
 feed:
 type: atom
@@ -104,3 +102,4 @@ deploy:
   type: git
   repo: git@github.com:greedyboy/greedyboy.github.io.git
   branch: master
+

@@ -10,7 +10,10 @@ date: 2018-04-07 20:40:54
 {% endcenterquote %}
 
 {% blockquote %}
-- 2018.4.10 明确[博客定位V1.0](../blog/20180410-blog-orientations.html)
+- 2018.4.10 博客修改
+	- 明确[博客定位V1.0](../blog/2018/0410-blog-orientations.html)
+	- 博客文章网址方式修改为`/blog/year/xxxxxx.html`
+	- NexT模板配置移位到`/source/_data/next.yml`[next配置文件独立](../blog/2018/0410-hexo-next-config-set.html)
 - 2018.4.9 模板修改
 	- 增加文末结束提示
 	- 本地搜索，统计，版权声明，页面位置显示
