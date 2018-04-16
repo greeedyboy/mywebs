@@ -242,7 +242,28 @@ local_search:
   # unescape html strings to the readable one
   unescape: false
 
-
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+valine:
+  enable: true
+  appid: 8pKnwOTj3tDsu3gkmzBgdWeI-gzGzoHsz
+  # your leancloud application appid
+  appkey: FORj3OpiNXys6FXp2nN4Almb
+  # your leancloud application appkey
+  notify: false
+  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false
+  # Verification code
+  placeholder: 期待与你沟通 
+  # comment box placeholder
+  avatar: mm
+  # gravatar style
+  guest_info: nick,mail,link 
+  # custom comment header
+  pageSize: 10
+  # pagination size
+  
 # Reading progress bar
 # Dependencies: https://github.com/theme-next/theme-next-reading-progress
 reading_progress:
