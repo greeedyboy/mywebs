@@ -106,5 +106,6 @@ E36B85CC 84991F19 7575D828 470A92AB
 ### 文献参考
 - <https://www.cnblogs.com/itbull/p/6182460.html>
 - <https://blog.csdn.net/marksinoberg/article/details/50993456>
+- sublime插件<https://packagecontrol.io/>
 
-> ### **如果文章对你有一丁点的帮助，就点个赞吧**
+## **如果文章对你有一丁点的触动，捐一分钱也是对作者的鼓励**
