@@ -65,9 +65,15 @@ cat ~/.ssh/id_rsa.pub
 ### 安装next主题
 - cd到博客目录`cd hexo`
 - 运行代码安装主程序和扩展
+- cd到博客主目录
 ```
 git clone https://github.com/theme-next/hexo-theme-next themes/next
+```
+- cd到主题theme/next目录下
+```
 git clone https://github.com/theme-next/theme-next-pace source/lib/pace
+git clone https://github.com/theme-next/theme-next-needmoreshare2 source/lib/needsharebutton
+git clone https://github.com/theme-next/theme-next-reading-progress source/lib/reading_progress
 ```
 - 将next目录下的`_config.yml`复制一份到`source\_data`目录下，并重新命名`next.yml`
 - 根据自己需要修改`next.yml`进行主题配置
