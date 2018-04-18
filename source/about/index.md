@@ -10,6 +10,11 @@ date: 2018-04-07 20:40:54
 {% endcenterquote %}
 
 {% blockquote %}
+- 2018.4.17 博客主题升级
+    - 博客进行主题升级，升级到NexT6.2
+    - 模板中删除了之前对于post等模板的修改，更改为全部依据模板设置完成个性定制
+    - 将模板配置文件全部转移到`/source/_data/next.yml`，抛弃部分修改部分复制的方式
+    - 升级方式采用修改原模板名称，然后使用`git clone`命令进行。
 - 2018.4.10 博客修改
 	- 明确[博客定位V1.0](../blog/2018/0410-blog-orientations.html)
 	- 博客文章网址方式修改为`/blog/year/xxxxxx.html`
