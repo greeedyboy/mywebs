@@ -45,8 +45,8 @@ cache:
 # For example, you put your favicons into `hexo-site/source/images` directory.
 # Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
+  small: /images/myfav16x16.png #/images/favicon-16x16-next.png
+  medium: /images/myfav32x32.png #/images/favicon-32x32-next.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
@@ -88,7 +88,7 @@ footer:
     version: false
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  #custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
+  custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -122,6 +122,7 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
+  友链: /links/ || map-signs
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -184,7 +185,7 @@ social_icons:
 # Blog rolls
 links_icon: link
 links_title: Links
-links_layout: block
+#links_layout: block
 #links_layout: inline
 #links:
   #Title: http://example.com/
@@ -192,7 +193,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /images/avatar1.png
 
 # Table Of Contents in the Sidebar
 toc:
@@ -283,7 +284,10 @@ codeblock:
   # Leave it empty for the default 1
   border_radius:
   # Add copy button on codeblock
-  copy_button: true
+  copy_button:
+    enable: true
+    # Show text copy result
+    show_result: true
 
 # Wechat Subscriber
 #wechat_subscriber:
@@ -929,7 +933,7 @@ vendors:
 
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
-  han:
+  Han:
 
   # Internal version: 3.3.0
   # https://github.com/vinta/pangu.js

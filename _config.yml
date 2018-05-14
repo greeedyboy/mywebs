@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: WQian'S Blog
+title: WQian.Net
 subtitle: Working For Daybreak
 description:
 keywords:
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://tgot.net
+url: http://wqian.net
 root: /
 permalink: blog/:year/:month:day-:urlname.html
 permalink_defaults:
@@ -100,6 +100,7 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:greedyboy/greedyboy.github.io.git
+  #repo: git@github.com:greedyboy/greedyboy.github.io.git
+  repo: https://git.coding.net/greedyboy/WQian.Net.git
   branch: master
 
