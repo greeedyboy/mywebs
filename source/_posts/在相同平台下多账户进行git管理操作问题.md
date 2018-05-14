@@ -8,8 +8,6 @@ categories:
   - daybreak
 date: 2018-04-17 09:43:09
 ---
-![](https://cdn.pixabay.com/photo/2015/02/03/02/14/keyboard-621830_1280.jpg)
-
 >遇到问题：网上有多个平台提供源码托管服务，比如国外的[github](https://github.com),[gitlab](https://gitlab.com),以及国内的[gitee](https://gitee.com/),[coding](https://coding.net)等公司，如果每个平台注册一个账号，使git项目管理，只要把ssh产生的公匙分别配置到各个托管平台提供的设置ssh公匙上就可以了。但是有的时候可能出于比如躲避女友删除等很多原因，需要在一个平台上注册多个账户，那么怎么处理这种问题呢？下面我给出了自己的解决方法，可能不具有普适性，仅供参考。
 
 <!-- more -->

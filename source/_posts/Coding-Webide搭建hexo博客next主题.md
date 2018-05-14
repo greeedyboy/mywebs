@@ -10,8 +10,6 @@ categories:
   - 软件列表
 date: 2018-04-17 11:04:34
 ---
-![感谢pixabay供图](https://cdn.pixabay.com/photo/2018/01/13/19/39/fashion-3080644_1280.jpg)
-
 > 发现coding出品了一款[Coding WebIDE](https://ide.coding.net/index)的工具，据说：Coding WebIDE 是 Coding 自主研发的在线集成开发环境 (IDE)。用户可以通过 WebIDE 创建项目的工作空间, 进行在线开发, 调试等操作。作者针对此进行了尝试应用，并成功搭建了基于next主题的hexo博客。记录过程如下，以供有相同需要的朋友参考。**本文利用WebIDE解决了通过网络发布静态博客的问题**。其他功能还很多，可以自行尝试。
 
 <!-- more -->

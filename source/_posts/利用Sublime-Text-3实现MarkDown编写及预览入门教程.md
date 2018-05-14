@@ -1,5 +1,5 @@
 ﻿---
-title: 利用Sublime Text 3实现MarkDown编写和预览后进行Steemit博客发布入门教程
+title: 利用Sublime Text 3实现MarkDown编写和预览入门教程
 urlname: sublime-text3-markdown-editing-preview
 tags:
   - sublime Text3
@@ -8,7 +8,6 @@ categories:
   - 软件列表
 date: 2018-04-15 02:33:26
 ---
-![图自网络](https://cdn.pixabay.com/photo/2016/04/13/19/20/binary-1327493_1280.jpg)
 > 你是否如我一样，一直在寻找一款舒服的编辑器来完成Markdown文档的编辑工作？  
 > 比如用于撰写博客，用于发布steemit文档等。  
 > 当然，会有朋友推荐编辑器之神的Vim，或神之编辑的Emacs，两阵相争的厮杀声在互联网上更是此起彼伏。定然，血流成河的阵地上演绎着一幕幕悲喜，硝烟弥漫的战场上造就了一个个战神。  
@@ -91,7 +90,6 @@ date: 2018-04-15 02:33:26
 - 输入框中输入`install package`然后按`回车`
 - 等待出现一个会话框，在会话框里面输入`Sublimerge3`，然后按`回车`
 - 查看菜单，我相信，你已完成。
-- 使用的时候
 
 ### Sublime Text 3注册码
 - 仅供学习，请支持购
