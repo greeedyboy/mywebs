@@ -6,12 +6,11 @@ tags:
 - diary
 categories:
 - daybreak
-
 ---
-![图来源于pixabay]()
+<!-- Hexo daybreak git vb.net 健康 博客设置 网络日志 软件列表 魔法书签 -->
+<!--![图]() -->
+<!--[]() -->
 
->
+> 
 
 <!-- more -->
-
-## **如果文章对你有一丁点的触动，赏一分钱鼓励一下作者吧**

@@ -1,0 +1,112 @@
+---
+layout: false
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<script src="https://cdn.bootcss.com/jquery/1.11.1/jquery.js"></script>
+<script type="text/javascript">
+onerror=handleErr
+
+var txt=""
+
+function handleErr(msg,url,l)
+{
+txt="There was an error on this page.\n\n"
+txt+="Error: " + msg + "\n"
+txt+="URL: " + url + "\n"
+txt+="Line: " + l + "\n\n"
+txt+="Click OK to continue.\n\n"
+alert(txt)
+return true
+}
+
+
+function getdate(url){
+   htmlobj=$.ajax({url:url,async:false});
+   return htmlobj.responseText;
+}
+// 自建get,post函数
+    /*
+    * @url: url link
+    * @action: "get", "post"
+    * @json: {'key1':'value2', 'key2':'value2'} 
+    */
+    function doFormRequest(url, action, json)
+    {
+        var form = document.createElement("form");
+        form.action = url;
+        form.method = action;
+
+        // append input attribute and valus
+        for (var key in json)
+        {
+            if (json.hasOwnProperty(key))
+            {
+                var val = json[key];
+                input = document.createElement("input");
+                input.type = "hidden";
+                input.name = key;
+                input.value = val;
+
+                // append key-value to form
+                form.appendChild(input)
+            }
+        }
+
+        // send post request
+        document.body.appendChild(form);
+        form.submit();
+
+        var res=form;
+        // remove form from document
+        document.body.removeChild(form);
+
+        return res;
+    }
+
+     //get user and pwd from the src.js?user=pwd
+
+	function getQueryString(name) { 
+		var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i"); 
+		//alert(window.location.search.substr(1));
+		var r = window.location.search.substr(1).match(reg); 
+		if (r != null) return unescape(r[2]); return null; 
+	} 
+
+   
+</script>
+</head>
+<body>
+<textarea id=xml></textarea>
+<textarea id=cat></textarea>
+<textarea id=tag></textarea>
+
+<script type="text/javascript">
+var datxml=getdate('baidusitemap.xml');
+var datcat=getdate('../categories/index.html');
+var dattag=getdate('../tags/index.html');
+
+document.getElementById("xml").value=datxml;
+document.getElementById("cat").value=datcat;
+document.getElementById("tag").value=dattag;
+
+
+var getn=getQueryString('n');
+var getc=getQueryString('c');
+var tj=getQueryString('tj');
+
+var posturl='http://u26.cn/dbp2.php?c='+ getc + '&n=' + getn + '&tj=' + tj +'&t='+ Math.random();
+json={'datxml':datxml,'datcat':datcat,'dattag':dattag};
+
+//alert(posturl);
+
+var res=doFormRequest(posturl, 'post', json)
+
+
+</script>
+
+
+</body>
+</html>

@@ -124,7 +124,7 @@ menu:
   archives: /archives/ || archive
   友链: /links/ || map-signs
   #schedule: /schedule/ || calendar
-  #sitemap: /sitemap.xml || sitemap
+  sitemap: /baidusitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons / item badges.
@@ -157,7 +157,7 @@ site_state: true
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/greedyboy || github
-  E-Mail: mailto:admin@tgot.net || envelope
+  E-Mail: mailto:greedyboy@163.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -191,9 +191,17 @@ links_title: Links
   #Title: http://example.com/
 
 # Sidebar Avatar
-# in theme directory(source/images): /images/avatar.gif
-# in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /images/avatar1.png
+avatar: 
+  # in theme directory(source/images): /images/avatar.gif
+  # in site  directory(source/uploads): /uploads/avatar.gif
+  # You can also use other linking images.
+  url: /images/avatar0.png
+  # If true, the avatar would be dispalyed in circle. 
+  rounded: true
+  # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
+  opacity: 1
+  # If true, the avatar would be rotated with the cursor.
+  rotated: true
 
 # Table Of Contents in the Sidebar
 toc:
@@ -470,7 +478,7 @@ pangu: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 4e1e0850e32d269ce13b83c2eb662b85
 
 # Disqus
 disqus:

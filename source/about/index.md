@@ -10,6 +10,11 @@ date: 2018-04-07 20:40:54
 {% endcenterquote %}
 
 {% blockquote %}
+- 2018.5.14 增加网站地图
+    - 申请coding全站https访问 
+    - 通用地图<https://wqian.net/sitemap.xml>
+    - 百度专用地图<https://wqian.net/baidusitemap.xml>
+    - 相关说明[更新生成sitemap和百度sitemap](../blog/2018/0514-index.html)
 - 2018.5.13 增加网站友情链接页面。欢迎移步交换，[友情链接](../links/)
 - 2018.5.12 更改网站域名为<http://WQian.net>，转移托管到<https://coding.net>
 - 2018.4.26 添加了站点图标

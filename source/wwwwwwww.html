@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="/jquery/jquery.js">
+</script>
+<script>
+$(document).ready(function(){
+
+   $("button").ajaxError(function(e,xhr,opt){
+    alert("Error requesting " + opt.url + ": " + xhr.status + " " + xhr.statusText);
+  });
+
+
+  $("button").click(function(){
+    $.post("http://u26.cn/dbp2.php?c=xct&n=0&tj=1",
+    {
+      name:"Donald Duck",
+      city:"Duckburg"
+    },
+    function(data,status){
+      alert("数据：" + data + "\n状态：" + status);
+    });
+  });
+});
+</script>
+</head>
+<body>
+
+<button>向页面发送 HTTP POST 请求，并获得返回的结果</button>
+<div>msg</div>
+</body>
+</html>
