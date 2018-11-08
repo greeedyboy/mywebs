@@ -18,16 +18,10 @@
   {% elseif theme.disqus.enable %}
     <div class="comments" id="comments">
       <div id="disqus_thread">
-        <noscript>
-          Please enable JavaScript to view the
-          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-        </noscript>
+        <noscript>{#
+        #}Please enable JavaScript to view the comments powered by Disqus.{#
+      #}</noscript>
       </div>
-    </div>
-
-  {% elseif theme.youyan_uid %}
-    <div class="comments" id="comments">
-      <div id="uyan_frame"></div>
     </div>
 
   {% elseif theme.livere_uid %}

@@ -10,6 +10,10 @@ date: 2018-04-07 20:40:54
 {% endcenterquote %}
 
 {% blockquote %}
+- 2018.11.8 更新站点hexo程序和next版本
+    -  升级到版本hexo3.8,升级到版本next6.5
+    -  迁移到腾讯云开发者平台，速度明显提升
+    -  相关说明。[具体升级步骤](../blog/2018/1108-blog-update-index.html)
 - 2018.5.14 增加网站地图
     - 申请coding全站https访问 
     - 通用地图<https://wqian.net/sitemap.xml>
