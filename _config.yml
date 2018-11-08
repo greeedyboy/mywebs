@@ -108,5 +108,6 @@ deploy:
   type: git
   #repo: git@github.com:greedyboy/greedyboy.github.io.git
   repo: https://git.coding.net/greedyboy/WQian.Net.git
+  #repo: git@git.coding.net:greedyboy/WQian.Net.git
   branch: master
 

@@ -23,6 +23,7 @@ date: 2018-07-10 19:29:12
 ### 实现内容
 用下面图例进行表示。
 
+![](https://wx2.sinaimg.cn/large/3f2c99ebgy1ft7g1fgn9cj20nl069abm.jpg)
 
 ### 涉及到的网站
 - 代码托管服务(https://github.com)
@@ -34,6 +35,8 @@ date: 2018-07-10 19:29:12
 - 在本地创建hexo静态博客环境
 - 去网络集成环境注册账号，需要关联github账号
 - 要集成哪个项目就滑动相关滑块就可以了
+
+![](https://wx3.sinaimg.cn/large/3f2c99ebgy1ft7g1gpu6ij20u506bgll.jpg)
 
 ### 集成环境配置
 - 在相关选定的项目后面打开配置`setting`
