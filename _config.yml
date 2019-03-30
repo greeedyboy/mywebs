@@ -84,11 +84,11 @@ type: atom
 path: atom.xml
 limit: 20
 
-#symbols_count_time:
-#  symbols: true
-#  time: true
-#  total_symbols: true
-#  total_time: true
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
 
 search:
   path: search.xml
