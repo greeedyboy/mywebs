@@ -18,7 +18,7 @@ date: 2019-03-30 17:04:31
 
 ### 可用代码
 - 代码测试在matlab2015，windows7 64位上面可用
-'''
+```
 conn = actxserver('ADODB.Connection');
 connString = 'Provider=Microsoft.ACE.OLEDB.12.0;Data Source=K:\xxx\xxx.mdb;';
 conn.Open(connString);
@@ -30,6 +30,6 @@ plot(Date_x,cell2mat(myData(:,6)),Date_x,cell2mat(myData(:,8)));
 legend('brake-f-10','brake-f-12');
 grid on; 
 clear conn;
-'''
+```
 - 如果出现'Error using COM.ADODB_Connection/Open'错误，可以从更改'Provider'入手
 - 'Microsoft.Jet.OLEDB.4.0'在32位windows7系统可用，更改为64位系统后失效
