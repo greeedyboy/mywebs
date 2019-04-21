@@ -37,7 +37,7 @@ branches:
 env:
  global:
    - GH_REF: github.com/greedyboy/citest.git  #设置GH_REF，注意更改yourname
-   - CO_REF: git.coding.net/greedyboy/yestit.git  #设置GH_REF，注意更改yourname
+   - CO_REF: git.dev.tencent.com/greedyboy/yestit.git  #设置GH_REF，注意更改yourname
 
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
