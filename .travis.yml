@@ -18,26 +18,25 @@ script:
   - hexo g  #生成
 
 after_script:
-#  - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
-  - git clone https://${CO_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
+  - git clone https://${GH_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
+#- git clone https://${CO_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
   - cd .deploy_git
   - git checkout master
   - cd ../
   - mv .deploy_git/.git/ ./public/   # 这一步之前的操作是为了保留master分支的提交记录，不然每次git init的话只有1条commit
   - cd ./public
-  - git config user.name "greedyboy"  #修改name
-  - git config user.email "greedyboy@163.com"  #修改email
+  - git config user.name "greeedyboy"  #修改name
+  - git config user.email "greeedyboy@163.com"  #修改email
   - git add .
   - git commit -m "Travis CI Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
-  - git push --force --quiet "https://greedyboy:${CO_TOKEN}@${CO_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
-  - git push --force --quiet "https://greedyboy:${GH_TOKEN}@${GH_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
+#  - git push --force --quiet "https://greeedyboy:${CO_TOKEN}@${CO_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
+  - git push --force --quiet "https://greeedyboy:${GH_TOKEN}@${GH_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
 branches:
   only:
     - master  #只监测source分支，source是我的分支的名称，可根据自己情况设置
-    - ciwebs
 env:
  global:
-   - GH_REF: github.com/greedyboy/citest.git  #设置GH_REF，注意更改yourname
+   - GH_REF: github.com/greeedyboy/weba.git  #设置GH_REF，注意更改yourname
    - CO_REF: git.dev.tencent.com/greedyboy/yestit.git  #设置GH_REF，注意更改yourname
 
 # configure notifications (email, IRC, campfire etc)
@@ -45,6 +44,6 @@ env:
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - greedyboy@163.com
+    - greeedyboy@163.com
   on_success: change
   on_failure: always

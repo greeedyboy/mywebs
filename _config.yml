@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wqian.net
+url: /weba/
 root: /
 permalink: blog/:year/:month:day-:urlname.html
 permalink_defaults:
@@ -116,7 +116,7 @@ baidu_url_submit:
 deploy:
 - type: git    #部署类型
   #repo: git@github.com:greedyboy/greedyboy.github.io.git
-  repo: https://git.dev.tencent.com/greedyboy/WQian.Net.git
+  repo: git@github.com:greeedyboy/weba.git
   #repo: git@git.coding.net:greedyboy/WQian.Net.git
   branch: master
 
