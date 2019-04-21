@@ -1,8 +1,10 @@
 ---
-title: python对json文件进行读写含有中文
+title: python对json文件和txt文件进行读写含有中文
 urlname: python-json-index
 tags:
   - python
+  - json
+  - txt
 categories:
   - python
 date: 2018-12-16 16:03:27
@@ -18,23 +20,29 @@ date: 2018-12-16 16:03:27
 python对json进行读写，主要使用dump,dumps,load,loads。
 
 
-### 文件写dump和文件度load
+### 对json文件进行写dump和文件度load
 
-'''
+```
+    #写
     msx={'a':'hello你好吗'}
     with open('test.json','w',encoding='utf-8') as b_oj:
         json.dump(msx,b_oj,ensure_ascii=False)
-
+    #读
     with open('test.json','r',encoding='utf-8') as b_oj:
         bx=json.load(b_oj)
     print(str(bx))
-
-'''
+```
 
 - 关键是读取文件的时候加上`encoding='utf-8'`
 
 ### 字符串转换为字典loads,或把特定的对象序列化处理为字符串dumps
 
+### 对txt文件进行写
+```
+    file = r'workflowy_email.txt'
+    with open(file, 'a+') as f:
+       f.write(e_mail + "   "+ act_url + '\n')  # 加\n换行显示
+```
 ### 代码片段，将`a=b,c=d,e=f`转换成词典`{'a':'b','c':'d','e':'f'}`的形式
 ```
 def eqstr2json(equstr):
