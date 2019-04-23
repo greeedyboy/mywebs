@@ -25,12 +25,12 @@ after_script:
   - cd ../
   - mv .deploy_git/.git/ ./public/   # 这一步之前的操作是为了保留master分支的提交记录，不然每次git init的话只有1条commit
   - cd ./public
-  - git config user.name "greeedyboy"  #修改name
+  - git config user.name "pond"  #修改name
   - git config user.email "greeedyboy@163.com"  #修改email
   - git add .
   - git commit -m "Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
 #  - git push --force --quiet "https://greeedyboy:${CO_TOKEN}@${CO_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
-  - git push --force --quiet "https://greeedyboy:${Pond_CO_TOKEN}@${gking_CO_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
+  - git push --force --quiet "https://pond:${Pond_CO_TOKEN}@${gking_CO_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
 branches:
   only:
     - master  #只监测source分支，source是我的分支的名称，可根据自己情况设置
