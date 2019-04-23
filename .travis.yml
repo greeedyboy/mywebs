@@ -36,7 +36,7 @@ branches:
     - master  #只监测source分支，source是我的分支的名称，可根据自己情况设置
 env:
  global:
-   - gking_CO_REF: git.dev.tencent.com:pond/gking.git  #设置GH_REF，注意更改yourname
+   - gking_CO_REF: git.dev.tencent.com/pond/gking.git #设置GH_REF，注意更改yourname
 
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
