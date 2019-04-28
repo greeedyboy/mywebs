@@ -1,5 +1,5 @@
 ---
-title: About BKing.Net
+title: About GKing
 date: 2019-04-28 20:40:54
 ---
 
@@ -10,11 +10,3 @@ date: 2019-04-28 20:40:54
 
 非诚勿扰
 {% endcenterquote %}
-
-{% blockquote %}
-- 2019.04.28 Coming~
-
-{% endblockquote %}
-
-
-
