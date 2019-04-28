@@ -1,16 +1,18 @@
 ---
 title: About BKing.Net
-date: 2018-04-07 20:40:54
+date: 2019-04-28 20:40:54
 ---
 
 {% centerquote %}
-只有经过长时间完成其发展的艰苦工作，并长期埋头沉没于其中的任务，方可有所成就。
+我是一个很友善的人
 
-@黑格尔  
+广告，域名，商务：greedyboy@163.com
+
+非诚勿扰
 {% endcenterquote %}
 
 {% blockquote %}
-- 2019.04.09 Coming~
+- 2019.04.28 Coming~
 
 {% endblockquote %}
 

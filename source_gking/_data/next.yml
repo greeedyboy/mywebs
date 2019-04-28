@@ -49,7 +49,7 @@ rss: /atom.xml
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2018
+  since: 2019
 
   # Icon between year and copyright info.
   icon:
@@ -83,7 +83,7 @@ footer:
     icp:
 
   # Any custom text can be defined here.
-  custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
+  custom_text: 来也匆匆，去也匆匆。你现在只缺一个好的域名！
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
@@ -496,7 +496,7 @@ font:
 
 # Math Equations Render Support
 math:
-  enable: ture
+  enable: false
 
   # Default (true) will load mathjax / katex script on demand.
   # That is it only render those page which has `mathjax: true` in Front Matter.
@@ -632,9 +632,9 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # More info available at https://valine.js.org
 valine:
-  enable: true
-  appid: 8pKnwOTj3tDsu3gkmzBgdWeI-gzGzoHsz # your leancloud application appid
-  appkey: FORj3OpiNXys6FXp2nN4Almb # your leancloud application appkey
+  enable: false
+  appid:  # your leancloud application appid
+  appkey: # your leancloud application appkey
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: Just go go # comment box placeholder
