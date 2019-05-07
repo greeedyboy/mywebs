@@ -1,17 +1,18 @@
 ---
-title: 友情链接(){方寸之外，别有洞天}
+title: 出售域名列表
 date: 2018-05-13 21:17:41
 ---
-### 加我告诉我，然后我加你
-- 站点：[WQian五千](https://wqian.net)
-- 介绍：有点小技，有点经验，有点幽默，有点情感，欢迎光临`WQian五千`。
-- 友情链接代码
-```
-<a href="https://wqian.net" target="_blank">WQian五千</a>
-```
-### 精彩链接
-- [梦魇小栈](https://blog.ihoey.com)：*心，若没有栖息的地方，到哪里都是流浪*
-- [boke112 导航](https://boke112.com/)
-- [且听书吟](https://yufan.me)：*优雅的博主，文字安好*
-- [Hexo](https://hexo.io/)： *本站程序驱动*
-- [NexT](https://github.com/theme-next/hexo-theme-next)： *本站主题驱动*
+### 域名说明
+- 与众多211大学无关
+- 与双一流大学无关
+- 联系284828511@qq.com
+
+### 域名列表
+- [cumt.com.cn](https://gking.net/categories/cumt-com-cn/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6/)与中国矿业大学无关
+- [hrbeu.com.cn](https://gking.net/categories/hrbeu-com-cn/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6/)与哈尔滨工程大学无关
+- [nankai.info](https://gking.net/categories/nankai-info/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6/)与南开大学无关
+- [shutcm.com.cn](https://gking.net/categories/shutcm-com-cn/%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6/)与上海中医药大学无关
+- [sicau.com.cn](https://gking.net/categories/sicau-com-cn/%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6/)与四川农业大学无关
+- [tijmu.com.cn](https://gking.net/categories/tijmu-com-cn/%E5%A4%A9%E6%B4%A5%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6/)与天津医科大学无关
+- [tjutcm.com.cn](https://gking.net/categories/tjutcm-com-cn/%E5%A4%A9%E6%B4%A5%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6/)与天津中医药大学无关
+- [utibet.com.cn](https://gking.net/categories/utibet-com-cn/%E8%A5%BF%E8%97%8F%E5%A4%A7%E5%AD%A6/)与西藏大学无关

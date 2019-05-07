@@ -35,8 +35,8 @@ cache:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/myfav16x16.png #/images/favicon-16x16-next.png
-  medium: /images/myfav32x32.png #/images/favicon-32x32-next.png
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
@@ -159,10 +159,10 @@ baidu_push: true
 menu:
   home: / || home
   about: /about/ || user
-  tags: /tags/ || tags
+  #tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
-  友链: /links/ || map-signs
+  域名出售: /links/ || map-signs
   #schedule: /schedule/ || calendar
   sitemap: /baidusitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
