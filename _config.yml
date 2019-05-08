@@ -20,7 +20,7 @@ permalink_defaults:
 urlname: index
 
 # Directory
-source_dir: source_gking2
+source_dir: source_gking
 public_dir: public
 tag_dir: tags
 archive_dir: archives
