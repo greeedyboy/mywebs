@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->信控学院巩敦卫教授团队在区间多目标优化方面取得进展 | cumt.com.cn
+title: 中国矿业大学->信控学院巩敦卫教授团队在区间多目标优化方面取得进展 | cumt.net.cn
 date: 2019-04-29 02:14:16
 urlname: a28f7e0e1f8a0fb4cb28cd3c7fe3f1e4
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

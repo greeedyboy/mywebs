@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->建筑与设计学院举办“大学生创新创业训练计划项目”结题答辩会  | cumt.com.cn
+title: 中国矿业大学->建筑与设计学院举办“大学生创新创业训练计划项目”结题答辩会  | cumt.net.cn
 date: 2019-04-28 17:02:16
 urlname: cc8e43b6d3d36c2af7842cefac9bf5f3
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

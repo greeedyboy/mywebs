@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->国家重点研发计划“集成北斗GalileoLiDAR倾斜摄影的智慧城市三维场景重建关键技术研究”项目启动会召开 | cumt.com.cn
+title: 中国矿业大学->国家重点研发计划“集成北斗GalileoLiDAR倾斜摄影的智慧城市三维场景重建关键技术研究”项目启动会召开 | cumt.net.cn
 date: 2019-04-28 16:29:47
 urlname: fa7dedb7a8ffdb7e3f9ff5073f5cd7df
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

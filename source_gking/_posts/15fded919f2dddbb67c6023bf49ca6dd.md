@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->清华大学文科资深教授柳冠中做客镜湖大讲堂 | cumt.com.cn
+title: 中国矿业大学->清华大学文科资深教授柳冠中做客镜湖大讲堂 | cumt.net.cn
 date: 2019-04-29 07:14:51
 urlname: 15fded919f2dddbb67c6023bf49ca6dd
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

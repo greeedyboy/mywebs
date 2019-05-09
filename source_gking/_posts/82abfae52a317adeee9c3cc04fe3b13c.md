@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->情系教育，奉献爱心——电气与动力工程学院举办“情系百色教育,义捐爱心字典”党员动员大会 | cumt.com.cn
+title: 中国矿业大学->情系教育，奉献爱心——电气与动力工程学院举办“情系百色教育,义捐爱心字典”党员动员大会 | cumt.net.cn
 date: 2019-04-29 02:14:48
 urlname: 82abfae52a317adeee9c3cc04fe3b13c
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

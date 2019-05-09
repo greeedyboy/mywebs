@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->济宁学院党委副书记马恩一行来校交流工作 | cumt.com.cn
+title: 中国矿业大学->济宁学院党委副书记马恩一行来校交流工作 | cumt.net.cn
 date: 2019-04-28 16:29:58
 urlname: 6fce98ebaf011e63fd7ae24510d1dcad
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->唇枪舌战拨乾坤，群雄争辩展风采——电气与动力工程学院携手社团联合会举办第八届南湖论剑辩论赛表演赛 | cumt.com.cn
+title: 中国矿业大学->唇枪舌战拨乾坤，群雄争辩展风采——电气与动力工程学院携手社团联合会举办第八届南湖论剑辩论赛表演赛 | cumt.net.cn
 date: 2019-04-29 02:14:31
 urlname: 25e1a90f0c42ce43fcdbeb0c8dc3fa76
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

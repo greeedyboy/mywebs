@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->学校举行第十八届读书节开幕式暨校情校史专场报告会 | cumt.com.cn
+title: 中国矿业大学->学校举行第十八届读书节开幕式暨校情校史专场报告会 | cumt.net.cn
 date: 2019-04-28 16:30:17
 urlname: ca1fd0f960f3d31bd66da20e3eab83da
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

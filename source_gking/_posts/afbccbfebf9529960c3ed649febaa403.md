@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->梦想不会被大山阻隔——中国矿业大学支教团10年接力服务山西山区儿童纪实 | cumt.com.cn
+title: 中国矿业大学->梦想不会被大山阻隔——中国矿业大学支教团10年接力服务山西山区儿童纪实 | cumt.net.cn
 date: 2019-04-28 17:02:56
 urlname: afbccbfebf9529960c3ed649febaa403
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 

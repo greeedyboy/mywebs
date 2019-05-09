@@ -1,14 +1,14 @@
 ---
-title: 中国矿业大学->我校召开2019年教代会提案办理工作会议 | cumt.com.cn
+title: 中国矿业大学->我校召开2019年教代会提案办理工作会议 | cumt.net.cn
 date: 2019-05-05 13:00:13
 urlname: fcdb4cccb235e98bcfbbcd9cadd55187
 tags: 
-- cumt.com.cn
+- cumt.net.cn
 - cumt
 - 中国矿业大学
 - 矿大
 categories:
-- cumt.com.cn
+- cumt.net.cn
 - 中国矿业大学
 ---
 
