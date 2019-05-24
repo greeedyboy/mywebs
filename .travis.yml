@@ -15,7 +15,7 @@ install:
 
 script:
   - hexo clean  #清除
-  - travis_wait hexo g  #生成
+  - travis_wait 30 hexo g  #生成
 
 after_script:
   - git clone https://${gking_CO_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
