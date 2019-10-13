@@ -3,10 +3,7 @@ title: 中国矿业大学->计算机学院举办人工智能发展论坛 | cumt.
 date: 2019-06-04 09:43:41
 urlname: 08b44b2af117cd1b53bc1dabba70f3bc
 tags: 
-- cumt.net.cn
-- cumt
 - 中国矿业大学
-- 矿大
 categories:
 - cumt.net.cn
 - 中国矿业大学

@@ -3,9 +3,7 @@ title: 南开大学->金融学院硕士生、博士生党支部联合开展凉�
 date: 2019-05-18 00:40:23
 urlname: ee3f692bc64fd46baa8aad18d41d6daa
 tags: 
-- nankai.info
 - 南开大学
-- 南开
 categories:
 - nankai.info
 - 南开大学

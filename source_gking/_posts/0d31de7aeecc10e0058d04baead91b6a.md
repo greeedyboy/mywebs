@@ -3,10 +3,7 @@ title: 哈尔滨工程大学->自动化学院党委召开全院党员大会 | hr
 date: 2019-05-29 15:40:12
 urlname: 0d31de7aeecc10e0058d04baead91b6a
 tags: 
-- hrbeu.com.cn
-- hrbeu
 - 哈尔滨工程大学
-- 哈工程
 categories:
 - hrbeu.com.cn
 - 哈尔滨工程大学

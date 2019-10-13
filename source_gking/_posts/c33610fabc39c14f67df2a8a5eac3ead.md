@@ -3,10 +3,7 @@ title: 四川农业大学->管理学院获省社科优秀成果奖项创新高 |
 date: 2019-07-16 12:44:08
 urlname: c33610fabc39c14f67df2a8a5eac3ead
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

@@ -3,10 +3,7 @@ title: 中国矿业大学->中国矿业大学连云港校友分会成立 | cumt.
 date: 2019-05-13 10:40:48
 urlname: 1bbf63fc09e85407f0b88e8aebce3dfc
 tags: 
-- cumt.net.cn
-- cumt
 - 中国矿业大学
-- 矿大
 categories:
 - cumt.net.cn
 - 中国矿业大学

@@ -3,10 +3,7 @@ title: 四川农业大学->华沙大学Andrzej Cieslik教授来校开展学术�
 date: 2019-09-12 09:44:12
 urlname: b70ef6aef6a7cb097a26d1e0af7cab7b
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

@@ -3,9 +3,7 @@ title: 南开大学->南开大学科技成果亮相2019年扬州科洽会--一�
 date: 2019-04-28 16:59:40
 urlname: 78600fc87fecf1bcadbfca2680a7c7a0
 tags: 
-- nankai.info
 - 南开大学
-- 南开
 categories:
 - nankai.info
 - 南开大学

@@ -3,10 +3,7 @@ title: 中国矿业大学->国家重点研发计划“集成北斗GalileoLiDAR�
 date: 2019-04-28 16:29:47
 urlname: fa7dedb7a8ffdb7e3f9ff5073f5cd7df
 tags: 
-- cumt.net.cn
-- cumt
 - 中国矿业大学
-- 矿大
 categories:
 - cumt.net.cn
 - 中国矿业大学

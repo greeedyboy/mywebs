@@ -3,10 +3,7 @@ title: 四川农业大学->生科学子正年轻 社会实践在进行 | sicau.c
 date: 2019-07-29 15:42:06
 urlname: d3d9b9f7b2f845afdaca0e956e22def1
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

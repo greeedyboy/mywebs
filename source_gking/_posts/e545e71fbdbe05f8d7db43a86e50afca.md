@@ -3,10 +3,7 @@ title: 哈尔滨工程大学->学校组织离休老干部畅谈新中国成立70
 date: 2019-09-27 12:44:09
 urlname: e545e71fbdbe05f8d7db43a86e50afca
 tags: 
-- hrbeu.com.cn
-- hrbeu
 - 哈尔滨工程大学
-- 哈工程
 categories:
 - hrbeu.com.cn
 - 哈尔滨工程大学

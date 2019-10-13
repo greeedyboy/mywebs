@@ -3,10 +3,7 @@ title: 四川农业大学->动科院各支部开展爱国主义教育 | sicau.co
 date: 2019-10-09 18:43:32
 urlname: 83d591deddd3bbdd4aac0dd3b2695a23
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

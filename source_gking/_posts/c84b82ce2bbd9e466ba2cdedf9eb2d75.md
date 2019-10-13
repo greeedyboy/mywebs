@@ -3,10 +3,7 @@ title: 四川农业大学->“职享等你”求职竞聘大赛圆满结束 | si
 date: 2019-05-28 09:40:48
 urlname: c84b82ce2bbd9e466ba2cdedf9eb2d75
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

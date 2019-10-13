@@ -3,9 +3,7 @@ title: 南开大学->【迎百年校庆】核心数学与组合数学教育部�
 date: 2019-04-28 17:00:35
 urlname: 2dd2e175d46c5d7abfdebead85b049ac
 tags: 
-- nankai.info
 - 南开大学
-- 南开
 categories:
 - nankai.info
 - 南开大学

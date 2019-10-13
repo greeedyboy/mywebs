@@ -3,10 +3,7 @@ title: 四川农业大学->林学院:联建共育聚合力 树木树人谱新篇
 date: 2019-05-10 02:29:31
 urlname: 1be0e04d2e2ee3170d1accc042fff8fe
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

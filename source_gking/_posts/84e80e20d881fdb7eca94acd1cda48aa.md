@@ -3,10 +3,7 @@ title: 四川农业大学->动医17个研究团队助力学生学业规划 | sic
 date: 2019-09-22 21:43:06
 urlname: 84e80e20d881fdb7eca94acd1cda48aa
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

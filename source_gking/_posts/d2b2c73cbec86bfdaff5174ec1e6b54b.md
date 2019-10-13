@@ -3,10 +3,7 @@ title: 四川农业大学->园艺学院首迎外籍专业课程老师 | sicau.co
 date: 2019-09-15 21:43:37
 urlname: d2b2c73cbec86bfdaff5174ec1e6b54b
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

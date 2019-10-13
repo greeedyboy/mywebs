@@ -3,10 +3,7 @@ title: 四川农业大学->2018学生年度人物颁奖典礼暨2019学工系统
 date: 2019-05-07 00:03:23
 urlname: 36a6d10e00ac1b5cafdfaa431e4bb55d
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

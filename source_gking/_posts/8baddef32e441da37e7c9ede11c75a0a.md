@@ -3,10 +3,7 @@ title: 中国矿业大学->机电工程学院举办日本东北大学Noritaka Yu
 date: 2019-06-26 09:43:23
 urlname: 8baddef32e441da37e7c9ede11c75a0a
 tags: 
-- cumt.net.cn
-- cumt
 - 中国矿业大学
-- 矿大
 categories:
 - cumt.net.cn
 - 中国矿业大学

@@ -3,10 +3,7 @@ title: 四川农业大学->“长江—伏尔加河”高校联盟青年交流�
 date: 2019-07-03 18:44:05
 urlname: e5fa72881f0e7af2fccec42fcd85bab1
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

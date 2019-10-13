@@ -3,10 +3,7 @@ title: 四川农业大学->廖鹏获评全省“十佳高校团委书记” | si
 date: 2019-05-07 08:29:23
 urlname: 3bceb4aaedb3a5592cda7e8ce47d1f54
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

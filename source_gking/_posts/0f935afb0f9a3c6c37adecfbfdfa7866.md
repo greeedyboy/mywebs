@@ -3,10 +3,7 @@ title: 四川农业大学->【强师德 正教风 铸师魂】雷志敏：眼中
 date: 2019-06-11 16:43:50
 urlname: 0f935afb0f9a3c6c37adecfbfdfa7866
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

@@ -3,10 +3,7 @@ title: 四川农业大学->雷钱：人生之路，拾级而上 | sicau.com.cn
 date: 2019-05-24 09:39:40
 urlname: 8c4cc2189baafece7d08b9baa236c9a0
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

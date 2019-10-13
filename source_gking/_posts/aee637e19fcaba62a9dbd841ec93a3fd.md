@@ -3,10 +3,7 @@ title: 四川农业大学->自科基金资助稳定 两人喜获优青资助 | s
 date: 2019-08-17 15:43:24
 urlname: aee637e19fcaba62a9dbd841ec93a3fd
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

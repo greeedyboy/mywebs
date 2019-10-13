@@ -3,10 +3,7 @@ title: 四川农业大学->【强师德 正教风 铸师魂】杨明耀：从剑
 date: 2019-05-21 16:39:50
 urlname: bd5f1ab20f1b9c5aea80a6b2eb690f1b
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

@@ -3,10 +3,7 @@ title: 四川农业大学->“林”听中国故事，记录传承发展 | sicau
 date: 2019-08-15 12:44:04
 urlname: 36ddbfeba075eccbb4eed07858657ff1
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

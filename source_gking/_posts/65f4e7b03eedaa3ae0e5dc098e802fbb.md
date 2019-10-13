@@ -3,10 +3,7 @@ title: 中国矿业大学->法国圣埃蒂安市副市长Denis Chambe一行访�
 date: 2019-05-15 15:40:39
 urlname: 65f4e7b03eedaa3ae0e5dc098e802fbb
 tags: 
-- cumt.net.cn
-- cumt
 - 中国矿业大学
-- 矿大
 categories:
 - cumt.net.cn
 - 中国矿业大学

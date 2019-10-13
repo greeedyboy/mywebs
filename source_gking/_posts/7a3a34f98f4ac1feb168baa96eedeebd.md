@@ -3,10 +3,7 @@ title: 四川农业大学->资源学院迎新注重思想引领 | sicau.com.cn
 date: 2019-08-27 18:43:37
 urlname: 7a3a34f98f4ac1feb168baa96eedeebd
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

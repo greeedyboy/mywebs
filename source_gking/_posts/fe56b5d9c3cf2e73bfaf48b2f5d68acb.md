@@ -3,10 +3,7 @@ title: 四川农业大学->董菡仪：天马行空的探路人 | sicau.com.cn
 date: 2019-05-21 16:39:50
 urlname: fe56b5d9c3cf2e73bfaf48b2f5d68acb
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

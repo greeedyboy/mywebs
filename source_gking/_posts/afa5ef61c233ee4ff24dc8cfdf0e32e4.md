@@ -3,10 +3,7 @@ title: 四川农业大学->动物医学院专题学习习总书记回信 | sicau
 date: 2019-09-12 09:44:13
 urlname: afa5ef61c233ee4ff24dc8cfdf0e32e4
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

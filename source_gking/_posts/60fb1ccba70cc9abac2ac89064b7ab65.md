@@ -3,10 +3,7 @@ title: 四川农业大学->信工学院两学子参加谷歌全国创新特训 |
 date: 2019-08-30 12:43:31
 urlname: 60fb1ccba70cc9abac2ac89064b7ab65
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

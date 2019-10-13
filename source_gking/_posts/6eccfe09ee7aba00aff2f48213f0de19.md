@@ -3,10 +3,7 @@ title: 中国矿业大学->瞻仰红色遗址，传承初心之志--电力学院
 date: 2019-07-25 21:43:31
 urlname: 6eccfe09ee7aba00aff2f48213f0de19
 tags: 
-- cumt.net.cn
-- cumt
 - 中国矿业大学
-- 矿大
 categories:
 - cumt.net.cn
 - 中国矿业大学

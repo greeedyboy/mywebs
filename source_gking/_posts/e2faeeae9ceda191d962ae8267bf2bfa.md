@@ -3,10 +3,7 @@ title: 四川农业大学->动医职规大赛助力学生“职面未来” | si
 date: 2019-06-28 18:43:08
 urlname: e2faeeae9ceda191d962ae8267bf2bfa
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

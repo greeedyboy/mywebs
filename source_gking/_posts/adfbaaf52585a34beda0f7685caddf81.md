@@ -3,10 +3,7 @@ title: 四川农业大学->精准对接“职涯” 着力提升就业质量 | s
 date: 2019-05-26 20:39:42
 urlname: adfbaaf52585a34beda0f7685caddf81
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

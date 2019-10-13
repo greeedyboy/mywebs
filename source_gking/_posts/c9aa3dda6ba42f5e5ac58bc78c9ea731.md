@@ -3,10 +3,7 @@ title: 四川农业大学->我校ESI机构整体排名和ESI学科领域全球�
 date: 2019-07-18 12:43:17
 urlname: c9aa3dda6ba42f5e5ac58bc78c9ea731
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

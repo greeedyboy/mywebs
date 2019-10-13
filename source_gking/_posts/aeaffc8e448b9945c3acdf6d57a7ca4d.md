@@ -3,10 +3,7 @@ title: 四川农业大学->王湘：四年功夫磨利剑 | sicau.com.cn
 date: 2019-06-03 18:43:33
 urlname: aeaffc8e448b9945c3acdf6d57a7ca4d
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

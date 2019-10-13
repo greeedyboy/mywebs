@@ -3,10 +3,7 @@ title: 四川农业大学->多措并举 经济学院金课建设成效斐然 | s
 date: 2019-07-17 09:43:37
 urlname: 8c39aaad4bfacfb9dfdbdd29ef5bcc78
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

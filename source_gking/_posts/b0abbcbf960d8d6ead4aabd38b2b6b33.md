@@ -3,10 +3,7 @@ title: 四川农业大学->省社科院刘伟老师做客人文科创坊 | sicau
 date: 2019-06-21 18:43:40
 urlname: b0abbcbf960d8d6ead4aabd38b2b6b33
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

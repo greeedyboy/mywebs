@@ -3,9 +3,7 @@ title: 南开大学->【组图】南开大学科技周开启多彩“科普之�
 date: 2019-05-13 10:40:24
 urlname: afdc36cd5ad2c5c41cdef081bb3f59fd
 tags: 
-- nankai.info
 - 南开大学
-- 南开
 categories:
 - nankai.info
 - 南开大学

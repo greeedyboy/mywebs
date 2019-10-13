@@ -3,10 +3,7 @@ title: 四川农业大学->“川农大共和国英烈谱”讲座圆满结束 |
 date: 2019-05-14 18:39:49
 urlname: af7ff5aff1ec1f5e474cc83ddd8768a0
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

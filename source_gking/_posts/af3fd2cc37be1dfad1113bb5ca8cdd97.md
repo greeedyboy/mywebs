@@ -3,10 +3,7 @@ title: 四川农业大学->中药专家团队应邀参与Kamedis 亚太·中国�
 date: 2019-09-26 18:43:47
 urlname: af3fd2cc37be1dfad1113bb5ca8cdd97
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学

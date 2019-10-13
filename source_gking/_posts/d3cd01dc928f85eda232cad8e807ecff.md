@@ -3,10 +3,7 @@ title: 四川农业大学->【强师德 正教风 铸师魂】唐薇：春风化
 date: 2019-05-16 15:40:21
 urlname: d3cd01dc928f85eda232cad8e807ecff
 tags: 
-- sicau.com.cn
-- sicau
 - 四川农业大学
-- 川农大
 categories:
 - sicau.com.cn
 - 四川农业大学
