@@ -3,25 +3,25 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: nankai.info | 域名出售
+title: cumt.net.cn | 域名出售
 subtitle: 等个有缘人
 description:
 keywords:
-author: 南开大学
+author: 中国矿业大学
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.nankai.info
+url: https://www.cumt.net.cn
 root: /
 permalink: blog/:year/:month:day-:urlname.html
 permalink_defaults:
 urlname: index
 
 # Directory
-source_dir: source_nankai
-public_dir: public_nankai
+source_dir: source_cumt
+public_dir: public_cumt
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
