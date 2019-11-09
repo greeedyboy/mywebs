@@ -3,25 +3,25 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 开心一乐
-subtitle: 乐一乐
+title: hrbeu.com.cn | 域名出售
+subtitle: 等个有缘人
 description:
 keywords:
-author: 开心
+author: 哈尔滨工程大学
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://dz.gking.net
+url: https://www.hrbeu.com.cn
 root: /
 permalink: blog/:year/:month:day-:urlname.html
 permalink_defaults:
 urlname: index
 
 # Directory
-source_dir: source_dydz
-public_dir: public_dydz
+source_dir: source_hrbeu
+public_dir: public_hrbeu
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
