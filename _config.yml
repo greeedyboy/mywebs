@@ -3,25 +3,25 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sicau.com.cn | 域名出售
-subtitle: 等个有缘人
+title: 开心一乐
+subtitle: 乐一乐
 description:
 keywords:
-author: 四川农业大学
+author: 开心
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.sicau.com.cn
+url: https://dz.gking.net
 root: /
 permalink: blog/:year/:month:day-:urlname.html
 permalink_defaults:
 urlname: index
 
 # Directory
-source_dir: source_sicau
-public_dir: public_sicau
+source_dir: source_dydz
+public_dir: public_dydz
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
