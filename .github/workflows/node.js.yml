@@ -1,32 +1,52 @@
-# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
-name: Node.js CI
-
+name: GitHub Actions Build and Deploy
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches:
+
+      - master
 
 jobs:
-  build:
-
+  build-and-deploy:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [10.x, 12.x, 14.x]
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
+
+    - name: 1. git checkout...
+
+      uses: actions/checkout@v1
+
+    - name: 2. setup nodejs...
+
       uses: actions/setup-node@v1
+
+    - name: 3. install hexo...
+
+      run: |
+        npm install hexo-cli -g
+        npm i -S hexo-prism-plugin -g
+        npm install hexo-generator-search --save -g
+        npm i hexo-permalink-pinyin  -g
+        npm i --save hexo-wordcount -g
+        npm install hexo-filter-github-emojis  -g
+        npm install hexo-generator-feed  -g
+        npm install
+
+    - name: 4. hexo generate public files...
+
+      run: |
+        hexo clean
+        hexo g
+    # 部署到腾讯云    
+
+    - name: Deploy static to Tencent CloudBase
+
+      id: deployStatic
+      uses: TencentCloudBase/cloudbase-action@v1
       with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm ci
-    - run: npm run build --if-present
-    - run: npm test
-    - run: npm install
-    - run: hexo clean
-    - run: hexo g
+        secretId: ${{ secrets.SECRET_ID }}
+        secretKey: ${{ secrets.SECRET_KEY }}
+        envId: ${{ secrets.ENV_ID }}
+        staticSrcPath: ./public
+
+    - name: Get the deploy result
+
+      run: echo "Deploy to cloudbase result ${{ steps.deployStatic.outputs.deployResult }}"
