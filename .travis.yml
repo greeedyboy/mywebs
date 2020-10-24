@@ -11,11 +11,18 @@ before_install:
     - export TZ='Asia/Shanghai' # 更改时区
 
 install:
-  - npm install  #安装hexo及插件
+  - npm install hexo-cli -g
+  - npm i -S hexo-prism-plugin -g
+  - npm install hexo-generator-search --save -g
+  - npm i hexo-permalink-pinyin  -g
+  - npm i --save hexo-wordcount -g
+  - npm install hexo-filter-github-emojis  -g
+  - npm install hexo-generator-feed  -g
+  - npm install
 
 script:
   - hexo clean  #清除
-  - hexo g --debug #生成
+  - travis_wait 180 hexo g #生成
 
 after_script:
   - ls
