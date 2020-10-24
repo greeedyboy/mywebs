@@ -1,7 +1,8 @@
-language: #node_js  #设置语言
-    - '10.15.3'
+language: node_js  #设置语言
 
-node_js: stable  #设置相应的版本x
+
+node_js: #stable  #设置相应的版本x
+    - '10.15.3'
 
 cache:
     apt: true
