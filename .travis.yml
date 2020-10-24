@@ -18,6 +18,7 @@ script:
   - travis_wait 180 hexo g  #生成
 
 after_script:
+  - ls
 #   - git clone https://${gking_CO_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
 # #- git clone https://${CO_REF} .deploy_git  # GH_REF是最下面配置的仓库地址
 #   - cd .deploy_git
