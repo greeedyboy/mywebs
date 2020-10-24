@@ -39,14 +39,15 @@ jobs:
 
     - name: Deploy static to Tencent CloudBase
 
-      id: deployStatic
-      uses: TencentCloudBase/cloudbase-action@v1
-      with:
-        secretId: ${{ secrets.SECRET_ID }}
-        secretKey: ${{ secrets.SECRET_KEY }}
-        envId: ${{ secrets.ENV_ID }}
-        staticSrcPath: ./public
-
+      run: |
+        cd ./public_hrbeu
+        git init
+        git config user.name "pond"
+        git config user.email "greeedyboy@163.com"
+        git add .
+        git commit -m "Builder at `date +"%Y-%m-%d %H:%M"`"
+        git push --force --quiet "https://ZagYydJQqn:2028769833629d5eac0f86432d8b93572f4fc210@e.coding.net/pond/hrbeu.git" master:master
+        
     - name: Get the deploy result
 
       run: echo "Deploy to cloudbase result ${{ steps.deployStatic.outputs.deployResult }}"
