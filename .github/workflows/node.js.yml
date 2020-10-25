@@ -1,9 +1,7 @@
 name: GitHub Actions Build and Deploy
 on:
-  push:
-    branches:
-
-      - master
+  issue_comment:
+    types: [created, deleted]
 
 jobs:
   build-and-deploy:
