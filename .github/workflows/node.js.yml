@@ -1,5 +1,6 @@
 name: GitHub Actions Build and Deploy
 on:
+  workflow_dispatch:
   issue_comment:
     types: [created, deleted]
 
