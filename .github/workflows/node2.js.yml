@@ -29,7 +29,7 @@ jobs:
     
     - name: 1. git checkout...
 
-      uses: actions/checkout@v1
+    - run: gh repo clone greeedyboy/mywebs
 
     - name: 2. setup nodejs...
 
