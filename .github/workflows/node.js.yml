@@ -38,13 +38,14 @@ jobs:
     - name: Deploy static to Tencent CloudBase
 
       run: |
-        cd ./public_hrbeu
+        cd ./public_sicau
         git init
         git config user.name "pond"
         git config user.email "greeedyboy@163.com"
         git add .
         git commit -m "Builder at `date +"%Y-%m-%d %H:%M"`"
-        git push --force --quiet "https://ZagYydJQqn:2028769833629d5eac0f86432d8b93572f4fc210@e.coding.net/pond/hrbeu.git" master:master
+        git push --force --quiet "https://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@github.com/greeedyboy/web_nankai.git"
+# git push --force --quiet "https://ZagYydJQqn:2028769833629d5eac0f86432d8b93572f4fc210@e.coding.net/pond/hrbeu.git" master:master
         
     - name: Get the deploy result
 
