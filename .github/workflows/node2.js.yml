@@ -38,11 +38,10 @@ jobs:
         npm install hexo-generator-feed  -g
         npm install
     - name: 4. hexo generate public files...
-
-      run: |
-        hexo clean
-        hexo g
-        
+      
+    - name: 4. hexo generate public files...
+    - run: hexo clean
+    - run: hexo g        
     - name: Deploy static to Tencent CloudBase
 
       run: |
